@@ -127,13 +127,13 @@ body {
 }
 @keyframes lightAni {
   0% {
-    filter: drop-shadow(0px 10px 30px #c3e5da);
+    filter: drop-shadow(0px 10px 30px #10e9a5);
   }
   50% {
-    filter: drop-shadow(0px 0px 0px #c3e5da);
+    filter: drop-shadow(0px 0px 0px #10e9a5);
   }
   100% {
-    filter: drop-shadow(0px 10px 30px #c3e5da);
+    filter: drop-shadow(0px 10px 30px #10e9a5);
   }
 }
 .tag-ele {
